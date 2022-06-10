@@ -1,5 +1,6 @@
 ### Hi there, I am Frank Kwabena Abrokwa 👋
 
+##For the past three years, I've mostly programming with Javascript and PHP. With Node Js and Laravel, I constructed a number of fascinating React applications (Progressive Web Applications) and REST-ful APIs using Javascript and PHP. I also use React Native to create mobile apps. I'm currently studying Django in order to create RESTful APIs.
 
 - 🔭 I’m currently working on Algorithms with JavaScript
 - 🌱 I’m currently learning Django
