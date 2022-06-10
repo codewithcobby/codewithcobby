@@ -4,7 +4,7 @@
 Software Engineer 👨🏾‍💻
 --------------------
 
-For the past three years, I've mostly programming with Javascript and PHP. With Node Js and Laravel, I constructed a number of fascinating React applications (Progressive Web Applications) and REST-ful APIs using Javascript and PHP. I also use React Native to create mobile apps. I'm currently studying Django in order to create RESTful APIs.
+For the past three years, I've mostly been programming with Javascript and PHP. With Node Js and Laravel, I have constructed a number of fascinating React applications (Progressive Web Applications) and REST-ful APIs using Javascript and PHP. I also use React Native to create mobile apps. I'm currently learning Django in order to create RESTful APIs with Python Language.
 
 *   🌍  I live in Ghana, Accra
 *   ✉️   You can contact me at [frank.k.abrokwa@gmail.com](mailto:sel3491justice@gmail.com)
