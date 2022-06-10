@@ -10,7 +10,7 @@ For the past three years, I've mostly programming with Javascript and PHP. With 
 *   ✉️   You can contact me at [frank.k.abrokwa@gmail.com](mailto:sel3491justice@gmail.com)
 *   🚀  I'm currently working on Algorithms with JavaScript
 *   🧠  I'm learning Python programming language and Django.
-*   🤔  I’m looking for help with remote job*   
+*   🤔  I’m looking for help with remote job
 *   💬  Ask me about any Tech related
 *   ⚡   Fun fact: I do everything JavaScript (React, Node Js, React Native, Vue), Laravel (PHP) and Django (Python)
 
@@ -40,7 +40,7 @@ For the past three years, I've mostly programming with Javascript and PHP. With 
                   
 <p align="left">
 <a href="https://www.github.com/Kwabena-Abrokwa" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/kwabena_abrokwa" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/frank-kwabena-abrokwa-ba54681b6" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.twitter.com/kwabena_abrokwa" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/twitter.svg" width="32" height="32" /></a>
   <a href="https://www.instagram.com/develop.with.kwabena/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/instagram.svg" width="32" height="32" /></a></p>
 
@@ -49,6 +49,6 @@ For the past three years, I've mostly programming with Javascript and PHP. With 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/danielcranney"><img src="https://github-readme-stats.vercel.app/api?username=Kwabena-Abrokwa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Frank Kwabena Abrokwa's GitHub stats" /></a>
+<a href="http://www.github.com/Kwabena-Abrokwa"><img src="https://github-readme-stats.vercel.app/api?username=Kwabena-Abrokwa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Frank Kwabena Abrokwa's GitHub stats" /></a>
 <a href="http://www.github.com/Kwabena-Abrokwa"><img src="https://activity-graph.herokuapp.com/graph?username=Kwabena-Abrokwa&count_private=true&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  <a href="https://github.com/Kwabena-Abrokwa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwabena-Abrokwa&langs_count=10&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
