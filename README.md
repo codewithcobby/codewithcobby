@@ -17,7 +17,8 @@ For the past three years, I've mostly programming with Javascript and PHP. With 
 ### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/react-native-logo.png" width="36" height="36" alt="React" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/react-colored.svg" width="36" height="36" alt="React Native" /></a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/react-native-logo.png" width="36" height="36" alt="React Native" /></a>
  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
