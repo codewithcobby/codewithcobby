@@ -8,7 +8,7 @@ For the past three years, I've mostly been programming with Javascript and PHP. 
 
 *   🌍  I live in Ghana, Accra
 *   ✉️   You can contact me at [frank.k.abrokwa@gmail.com](mailto:sel3491justice@gmail.com)
-*   🚀  I'm currently working on Algorithms with JavaScript
+*   🚀  I'm currently working on personal projects.
 *   🧠  I'm learning Python programming language and Django.
 *   🤔  I’m looking for help with remote job
 *   💬  Ask me about any Tech related
