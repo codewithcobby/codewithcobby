@@ -10,8 +10,8 @@ For the past three years, I've mostly been programming with Javascript and PHP. 
 *   ✉️   You can contact me at [frank.k.abrokwa@gmail.com](mailto:sel3491justice@gmail.com)
 *   🚀  I'm currently working on personal projects.
 *   🧠  I'm learning Python programming language and Django.
-*   🤔  I’m looking for help with remote job
-*   💬  Ask me about any Tech related
+*   🤔  I’m looking for remote job.
+*   💬  Ask me about any Tech related.
 *   ⚡   Fun fact: I do everything JavaScript (React, Node Js, React Native, Vue), Laravel (PHP) and Django (Python)
 
 ### Skills
