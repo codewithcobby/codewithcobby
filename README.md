@@ -31,7 +31,7 @@ For the past three years, I've mostly been programming with Javascript and PHP. 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/sql.jpg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/sql.jpeg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/mongodb-colored.svg" width="36" height="36" alt="MongoDb" /></a>
   <a href="https://www.heroku.com" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
   <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/figma.svg" width="36" height="36" alt="Figma" /></a>
