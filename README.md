@@ -51,4 +51,12 @@ For the past three years, I've mostly been programming with Javascript and PHP. 
 
  <a href="https://github.com/codewithcobby" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithcobby&langs_count=10&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="http://www.github.com/Kwabena-Abrokwa"><img src="https://github-readme-stats.vercel.app/api?username=codewithcobby&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Frank Kwabena Abrokwa's GitHub stats" /></a>
-<a href="http://www.github.com/codewithcobby"><img src="https://activity-graph.herokuapp.com/graph?username=codewithcobby&count_private=true&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+## **I've got everything to do with writing codes😍**
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=codewithcobby&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithcobby&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithcobby&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithcobby&theme=github_dark)
+[![Frank K. Abrokwa's stats](https://github-readme-stats.vercel.app/api?username=codewithcobby&show_icons=true&theme=github_dark)](https://github.com/codewithcobby)
+
+
