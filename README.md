@@ -39,16 +39,16 @@ For the past three years, I've mostly been programming with Javascript and PHP. 
 ### Socials
                   
 <p align="left">
-<a href="https://www.github.com/Kwabena-Abrokwa" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/codewithcobby" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/github-dark.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/frank-kwabena-abrokwa-ba54681b6" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/kwabena_abrokwa" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/twitter.svg" width="32" height="32" /></a>
-  <a href="https://www.instagram.com/develop.with.kwabena/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/instagram.svg" width="32" height="32" /></a></p>
+  <a href="https://www.twitter.com/codewithcobby" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/twitter.svg" width="32" height="32" /></a>
+  <a href="https://www.instagram.com/codewithcobby/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/instagram.svg" width="32" height="32" /></a></p>
 
                     
 ### Badges
 
 <b>My GitHub Stats</b>
 
- <a href="https://github.com/Kwabena-Abrokwa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwabena-Abrokwa&langs_count=10&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/Kwabena-Abrokwa"><img src="https://github-readme-stats.vercel.app/api?username=Kwabena-Abrokwa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Frank Kwabena Abrokwa's GitHub stats" /></a>
-<a href="http://www.github.com/Kwabena-Abrokwa"><img src="https://activity-graph.herokuapp.com/graph?username=Kwabena-Abrokwa&count_private=true&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ <a href="https://github.com/codewithcobby" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithcobby&langs_count=10&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Kwabena-Abrokwa"><img src="https://github-readme-stats.vercel.app/api?username=codewithcobby&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Frank Kwabena Abrokwa's GitHub stats" /></a>
+<a href="http://www.github.com/Kwabena-Abrokwa"><img src="https://activity-graph.herokuapp.com/graph?username=codewithcobby&count_private=true&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
