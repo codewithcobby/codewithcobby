@@ -44,17 +44,10 @@ For the past three years, I've mostly been programming with Javascript and PHP. 
   <a href="https://www.twitter.com/codewithcobby" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/twitter.svg" width="32" height="32" /></a>
   <a href="https://www.instagram.com/codewithcobby/" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa.s3.af-south-1.amazonaws.com/instagram.svg" width="32" height="32" /></a></p>
 
-                    
-### Badges
-
-<b>My GitHub Stats</b>
-
- <a href="https://github.com/codewithcobby" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithcobby&langs_count=10&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/Kwabena-Abrokwa"><img src="https://github-readme-stats.vercel.app/api?username=codewithcobby&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Frank Kwabena Abrokwa's GitHub stats" /></a>
 
 ## **Code With Cobby 🧘🏽‍♂️❤**
-[![Frank K. Abrokwa's stats](https://github-readme-stats.vercel.app/api?username=codewithcobby&show_icons=true&theme=github_dark)](https://github.com/codewithcobby)
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=codewithcobby&theme=dracula&hide_border=true)
+[![Frank K. Abrokwa's stats](https://github-readme-stats.vercel.app/api?username=codewithcobby&show_icons=true&theme=github_dark)](https://github.com/codewithcobby)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithcobby&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithcobby&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithcobby&theme=github_dark)
