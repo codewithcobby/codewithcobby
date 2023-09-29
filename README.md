@@ -46,7 +46,6 @@ For the past three years, I've mostly been programming with Javascript and PHP. 
 
 
 ## **Code With Cobby 🧘🏽‍♂️❤**
-<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithcobby&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithcobby&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithcobby&theme=github_dark)
