@@ -46,6 +46,7 @@ For the past three years, I've mostly been programming with Javascript and PHP. 
 
 
 ## **Code With Cobby 🧘🏽‍♂️❤**
+[![Frank K. Abrokwa's stats](https://github-readme-stats.vercel.app/api?username=codewithcobby&show_icons=true&theme=github_dark)](https://github.com/codewithcobby)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithcobby&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithcobby&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithcobby&theme=github_dark)
