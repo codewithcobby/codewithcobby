@@ -4,7 +4,7 @@
 Software Engineer 👨🏾‍💻
 --------------------
 
-For the past three years, I've mostly been programming with Javascript and PHP. With React Js, Node Js and Laravel, I have constructed a number of fascinating React applications (Progressive Web Applications) and REST-ful APIs using Javascript and PHP. I also use React Native to create mobile apps. I'm currently learning Django in order to create RESTful APIs with Python Language.
+Results-oriented Full Stack Developer with over 4 years of experience in designing, developing, and deploying web and mobile applications. Adept in both frontend and backend technologies, with a strong understanding of API integration. Proven ability to deliver high-quality software solutions in a remote work environment.
 
 *   🌍  I live in Ghana, Accra
 *   ✉️   You can contact me at [frank.k.abrokwa@gmail.com](mailto:sel3491justice@gmail.com)
@@ -13,6 +13,16 @@ For the past three years, I've mostly been programming with Javascript and PHP. 
 *   🤔  I’m looking for remote job.
 *   💬  Ask me about any Tech related.
 *   ⚡   Fun fact: I do everything JavaScript (React, Node Js, React Native, Vue), Laravel (PHP) and Django (Python)
+
+### TECHNICAL SKILLS
+* Frontend Technologies: React JS (Typescript), Next JS (Typescript), Vue JS (Typescript) 
+* Mobile Development: React Native (Typescript)
+* Backend Technologies: Node JS with Express JS (Typescript), Node JS with Adonis JS (Typescript), Laravel (PHP)
+* Database Technologies: MongoDB, MySQL, PostgreSQL, Firestore
+* Monitoring/Testing Technologies: Sentry, Cypress Test, Jest
+* State Management: Redux, Context API
+* CMS: WordPress
+* Others: Docker, AWS, Firebase, Git
 
 ### Skills
 <p align="left">
